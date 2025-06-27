@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-    endpoint := "http://127.0.0.1:9000" // 或者你本地的 IP:PORT
+    endpoint := "192.168.0.100:9000" // 或者你本地的 IP:PORT
     accessKeyID := "minioadmin"
     secretAccessKey := "minioadmin"
     useSSL := false
